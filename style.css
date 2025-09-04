@@ -97,6 +97,11 @@ li{
     color: #fff;
     background-color: #dc3545;
 }
+.develop{
+    color: #ffc107;
+    padding-top: 5%;
+    font: 500 0.8rem Verdana;
+}
 @media (max-width: 576px){
     .input-section{
         flex-direction: column;
